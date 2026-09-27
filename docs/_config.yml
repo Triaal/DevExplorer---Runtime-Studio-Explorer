@@ -1,0 +1,14 @@
+title: DevExplorer
+description: A runtime Explorer and Properties for Roblox games, made for developers.
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: midnight
+search_enabled: false
+heading_anchors: true
+back_to_top: true
+back_to_top_text: Back to top
+
+footer_content: Made by <a href="https://www.roblox.com/users/400509658/profile">Triaal</a>. Free to use in any game under the MIT license.
